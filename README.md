@@ -22,7 +22,6 @@ _Add a screenshot of your project UI here_
 
 - **HTML5** – Markup structure
 - **CSS3** – Styling and layout (including responsive design)
-- **JavaScript** – Client-side form validation
 
 ## 📁 Folder Structure
 
